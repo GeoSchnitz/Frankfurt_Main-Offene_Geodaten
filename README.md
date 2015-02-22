@@ -12,7 +12,7 @@ Datenquelle: Stadtvermessungsamt Frankfurt: http://opendata.frankfurt.de/dataset
 
 Lizenz: Datenlizenz Deutschland – Namensnennung – Version 2.0" - „dl-de/by-2-0"
 
-Weitere Ideen:
+# Weitere Ideen:
 - Stadtteilgrenzen mit den im OpenData Portal verfügbaren Sachdaten als Geodatensätze bereitstellen
 - Baumstandorte als GeoJson oder Spatial-Lite-DB
 - ...
